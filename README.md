@@ -1,4 +1,4 @@
-# EDA - El exito de los videojuegos
+# EDA - El exito en los videojuegos
 ![Empresas de videojuegos](https://www.eiurisweb.com/wp-content/uploads/2020/09/gameDevLogos.jpg)
 ¡Hola! Gracias por ver mi primer análisis exploratorio, donde estaré usando las herramientas y aplicaciones que he dado a lo largo del bootcamp, y donde podré así reforzar mis habilidades, técnicas y lógica que he ido adquiriendo mientras me he enfrentado a estos retos :).
 
