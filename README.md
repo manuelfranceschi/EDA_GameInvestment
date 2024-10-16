@@ -1,18 +1,20 @@
-# EDA - El éxito en los videojuegos
+# EDA - Oportunidad de inversión en el mundo de los videojuegos
 ![Empresas de videojuegos](https://www.eiurisweb.com/wp-content/uploads/2020/09/gameDevLogos.jpg)
 
-En este EDA quiero tratar el cómo se calcula el éxito de un videojuego, bajo que parámetros una empresa puede resultar ganadora en este mercado tan extenso y donde la competencia está a la orden del día. ¿Garantiza el éxito las ventas? Quizás si, pero en ocasiones las publishers pueden ver el éxito en otros apartados: el engagement del jugador, si compra microtransacciones, afianzar una buena base de usuarios para posteriores lanzamientos, etc.
+En este EDA quiero tratar el cómo se puede invertir en la industria del videojuego, bajo que parámetros un pequeño grupo de inversionistas pueden entrar en una industria en alza. ¿Garantiza el éxito las notas a un videojuego? Quizás si, pero eso no es lo único que se tomará en cuenta para hacer este análisis.
 
 ## Características:
 
 1. Limpieza y preprocesamiento de datos
-2. Visualización exploratoria de datos
-3. Análisis estadístico de métricas de éxito
+2. Entendimiento del negocio.
+3. Valoración de los resultados.
+4. Resolución de hipótesis.
+5. Análisis estadístico de métricas de ventas, notas y precio.
 
 ## Q&A
 ### ¿Cómo puedo usar este repositorio?
 Si quieres usar este repositorio para tus pruebas, tan solo tienes que:
 
-1. Clona el repositorio.
+1. Clonar el repositorio.
 2. Instala las bibliotecas necesarias [pandas, numpy, matplotlib, seaborn].
 3. Ejecuta el Jupyter Notebook para realizar el análisis.
